@@ -1,6 +1,6 @@
-# Personal Finance Tracker
+# Personal Expense Tracker
 
-A clean, responsive web application for tracking personal finances, managing budgets, and visualizing spending patterns.
+A clean, responsive web application for tracking personal Expenses, managing budgets, and visualizing spending patterns.
 
 ## Preview Images Uploading Soon.....
 
@@ -42,7 +42,7 @@ If you have Node.js installed, you can use tools like `http-server`:
 npm install -g http-server
 
 # Navigate to the project directory
-cd finance-tracker
+cd Expense-tracker
 
 # Start the server
 http-server
@@ -58,7 +58,7 @@ You can also deploy this application to GitHub Pages for free hosting:
 2. Go to repository settings
 3. Navigate to Pages section
 4. Select the main branch as the source
-5. Your application will be available at `https://[your-username].github.io/finance-tracker/`
+5. Your application will be available at `https://[your-username].github.io/Expense-tracker/`
 
 ## Usage Guide
 
