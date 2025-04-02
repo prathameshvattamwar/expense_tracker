@@ -58,7 +58,7 @@ You can also deploy this application to GitHub Pages for free hosting:
 2. Go to repository settings
 3. Navigate to Pages section
 4. Select the main branch as the source
-5. Your application will be available at `https://[your-username].github.io/Expense-tracker/`
+5. Your application will be available at `https://[your-username].github.io/expense-tracker/`
 
 ## Usage Guide
 
